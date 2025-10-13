@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "170209116583",
+    "project_id": "kanchapp-94a43",
+    "storage_bucket": "kanchapp-94a43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170209116583:android:9279e945a9b87ef1967682",
+        "android_client_info": {
+          "package_name": "com.ja.kanchap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170209116583-8cgnsmoc0cvmirogd58rvsj7532j6v99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyJPuV5mU7-u0ucP0iEYGX44tOR13Lm6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170209116583-8cgnsmoc0cvmirogd58rvsj7532j6v99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170209116583:android:a7f6a6764b748333967682",
+        "android_client_info": {
+          "package_name": "com.jam.knchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170209116583-8cgnsmoc0cvmirogd58rvsj7532j6v99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyJPuV5mU7-u0ucP0iEYGX44tOR13Lm6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170209116583-8cgnsmoc0cvmirogd58rvsj7532j6v99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
