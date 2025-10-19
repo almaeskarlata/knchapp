@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257213589268",
+    "firebase_url": "https://knchapp-e715b-default-rtdb.firebaseio.com",
+    "project_id": "knchapp-e715b",
+    "storage_bucket": "knchapp-e715b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257213589268:android:1fa89986dc27ba04eec401",
+        "android_client_info": {
+          "package_name": "com.jamcorpotation.knchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257213589268-ceoumvg9muicr2vgbknb1r3ig7p3ua2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-T0ttR46YTWpBC_cE3IJOiOuQBb-Zx4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257213589268-ceoumvg9muicr2vgbknb1r3ig7p3ua2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
